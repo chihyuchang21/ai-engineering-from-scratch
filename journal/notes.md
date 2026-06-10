@@ -7,6 +7,8 @@
 
   - 0.1 Dev Environment
   - 0.2 Git & Collaboration
+  - 0.5 Jupyter Notebooks
+  - 0.8 Editor Setup
   
 
   </details>
@@ -19,13 +21,11 @@
 ### 0.4 APIs & Keys
   - SDK format
 
-### 0.5 Jupyter Notebooks
-
 ### 0.6 Python Environments
+  - remain not considering uv for now
 
 ### 0.7 Docker for AI
-
-### 0.8 Editor Setup
+  - can read again in the future
 
 ### 0.9 Data Management
 

@@ -12,14 +12,14 @@ Total estimated time: ~314 hours, at your own pace.
 
 | # | Lesson | Status | Date |
 |---|--------|--------|------|
-| 01 | Dev Environment | ⏭️ | 26/06/09 |
-| 02 | Git & Collaboration | ⏭️ | 26/06/09 |
-| 03 | GPU Setup & Cloud | ✅ | 26/06/09 |
-| 04 | APIs & Keys | ✅ | 26/06/09 |
-| 05 | Jupyter Notebooks | ⬚ | ~75 min |
-| 06 | Python Environments | ⬚ | ~75 min |
-| 07 | Docker for AI | ⬚ | ~75 min |
-| 08 | Editor Setup | ⬚ | ~75 min |
+| 01 | Dev Environment | ⏭️ | 6/9 |
+| 02 | Git & Collaboration | ⏭️ | 6/9 |
+| 03 | GPU Setup & Cloud | ✅ | 6/9 |
+| 04 | APIs & Keys | ✅ | 6/9 |
+| 05 | Jupyter Notebooks | ⏭️ | 6/9 |
+| 06 | Python Environments | ✅ | 6/9 |
+| 07 | Docker for AI | 🚧 | 6/9 |
+| 08 | Editor Setup | ⏭️ | 6/9 |
 | 09 | Data Management | ⬚ | ~75 min |
 | 10 | Terminal & Shell | ⬚ | ~45 min |
 | 11 | Linux for AI | ⬚ | ~45 min |
