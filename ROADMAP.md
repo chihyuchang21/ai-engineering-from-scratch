@@ -20,10 +20,10 @@ Total estimated time: ~314 hours, at your own pace.
 | 06 | Python Environments | ✅ | 6/9 |
 | 07 | Docker for AI | 🚧 | 6/9 |
 | 08 | Editor Setup | ⏭️ | 6/9 |
-| 09 | Data Management | ⬚ | ~75 min |
-| 10 | Terminal & Shell | ⬚ | ~45 min |
-| 11 | Linux for AI | ⬚ | ~45 min |
-| 12 | Debugging & Profiling | ⬚ | ~75 min |
+| 09 | Data Management | 🚧 | 6/11 |
+| 10 | Terminal & Shell | ⬚ | 6/11 |
+| 11 | Linux for AI | ✅ | 6/11 |
+| 12 | Debugging & Profiling | 🚧 | 6/11 |
 
 ## Phase 1: Math Foundations — ⬚ (~23 hours)
 
